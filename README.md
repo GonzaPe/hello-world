@@ -2,4 +2,4 @@
 Repositorio de prueba
 lorem ipsum añalksdfjalk
 Este archivo será el principal
-Entiendo que este sigue siendo el archivo principal
+|_ Entiendo que estoy editando la rama del archivo principal
